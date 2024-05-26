@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+
+# Output
+glslshaders/
+obj/
+bin/
+
+# Wakatime
+.wakatime-project
